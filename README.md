@@ -1,2 +1,4 @@
 # gitest
 git practice
+
+これはマスターブランチです
